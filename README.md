@@ -8,3 +8,7 @@
 - CROWN COMFORT
 - Jeep
 - Honda MONKEY
+- Beetle
+- Honda GB 350
+
+
