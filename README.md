@@ -11,6 +11,7 @@ Everyone loves good food, but sometimes you don’t know where to go. This AI he
 - Favorite food profile
 - GPT-based restaurant description
 - English support
+- Open time
 
 Please contribute ideas or code! Fork me 🙌
 
