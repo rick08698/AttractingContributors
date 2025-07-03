@@ -14,3 +14,4 @@
 - live abroad
 - 海外旅行
 - Riku Teraokaをこの手で抱きしめること
+- 富士山登頂
