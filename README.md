@@ -8,3 +8,6 @@
 - climb chomolungma
 - 寝台列車旅行
 - sky diving
+- スカイダイビング
+- ホームランを打つ
+- live abroad
