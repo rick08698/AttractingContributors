@@ -13,3 +13,4 @@
 - ホームランを打つ
 - live abroad
 - 海外旅行
+- Riku Teraokaをこの手で抱きしめること
