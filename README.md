@@ -7,4 +7,5 @@
 - To see Aurora
 - climb chomolungma
 - 寝台列車旅行
+- ホームランを打つ
 - live abroad
