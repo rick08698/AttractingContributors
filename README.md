@@ -1,20 +1,16 @@
-# 🍱 Japanese Food Culture: The Art of Small Portions
+# 🍜 AI Food Place Recommender
 
-## Overview
-Why is Japanese food often served in small, beautifully arranged portions?
+This project helps users find food spots based on mood, preferences, or favorite things.  
+It uses AI to recommend places like ramen shops, cafes, or cheap bento.
 
-This project explores the cultural, aesthetic, and philosophical reasons behind the unique presentation of Japanese cuisine. It encourages contributors to reflect on how food reflects values like balance, respect for nature, and mindfulness.
+## Why?
+Everyone loves good food, but sometimes you don’t know where to go. This AI helps you decide!
 
-## Objective
-To gather diverse thoughts and insights from contributors around the world on this fascinating aspect of Japanese culture.
+## Ideas
+- Mood-based food finder
+- Favorite food profile
+- GPT-based restaurant description
+- English support
 
-## How to Contribute
-1. Fork this repository
-2. Create a new file named `your-name-answer.md` (example: `alex-smith-answer.md`)
-3. Write a short response (1–3 paragraphs) answering the question
-4. Commit your file and open a pull request
+Please contribute ideas or code! Fork me 🙌
 
-All thoughtful answers will be reviewed and merged as part of this collaborative cultural project.
-
-## Thank You
-Your contributions are appreciated and will help build a meaningful, community-driven exploration of food and culture. 🙏
