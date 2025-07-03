@@ -14,3 +14,4 @@
 - live abroad
 - 海外旅行
 - Riku Teraokaをこの手で抱きしめること
+- I want to live with my child
