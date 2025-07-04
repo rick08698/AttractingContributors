@@ -12,6 +12,7 @@ Everyone loves good food, but sometimes you don’t know where to go. This AI he
 - GPT-based restaurant description
 - English support
 - Open time
+- Obtaining reviews from people who have eaten there
 
 Please contribute ideas or code! Fork me 🙌
 
