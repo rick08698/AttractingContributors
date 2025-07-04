@@ -15,3 +15,4 @@
 - 海外旅行
 - Riku Teraokaをこの手で抱きしめること
 - 富士山登頂
+- I want to live with my child
